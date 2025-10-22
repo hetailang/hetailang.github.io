@@ -17,27 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is **Zihao Wang**. I am currently an intern at [InfiX-ai](https://huggingface.co/InfiX-ai), where I am advised by [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/). Previously, I worked as a research assistant at **Sun Yat-sen University**, under the supervision of [Prof. Li Shen](https://sites.google.com/site/mathshenli/home). I received my **Bachelor’s degree** from **Lanzhou University**, where I was advised by [Prof. Shaoduo Gan](https://scholar.google.com/citations?user=Gy9ZnBcAAAAJ&hl=en&oi=sra).
+Hi, my name is Zihao Wang. I am currently an intern at [InfiX-ai](https://huggingface.co/InfiX-ai), where I am advised by [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/). Previously, I worked as a research assistant at Sun Yat-sen University, under the supervision of [Prof. Li Shen](https://sites.google.com/site/mathshenli/home). I received my Bachelor’s degree from Lanzhou University, where I was advised by [Prof. Shaoduo Gan](https://scholar.google.com/citations?user=Gy9ZnBcAAAAJ&hl=en&oi=sra).
 
 My research interests lie primarily in **Model Merging** and **Efficient Large Language Models (LLMs)**.
 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/squeezeattention.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[SQUEEZEATTENTION: 2D MANAGEMENT OF KV-CACHE IN LLM INFERENCE VIA LAYER-WISE OPTIMAL BUDGET](https://arxiv.org/abs/2404.04793)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Zihao Wang**, Bin Cui, Shaoduo Gan
 </div>
 </div>
 

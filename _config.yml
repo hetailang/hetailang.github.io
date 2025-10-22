@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zihao Wang"
-  avatar           : "images/img.png"
+  avatar           : "images/image.png"
   bio              : "LZU"
   location         : "China"
   employer         :
