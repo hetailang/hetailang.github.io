@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Zihao Wang. I am currently an intern at [InfiX-ai](https://huggingface.co/InfiX-ai), where I am advised by [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/). Previously, I worked as a research assistant at Sun Yat-sen University, under the supervision of [Prof. Li Shen](https://sites.google.com/site/mathshenli/home). I received my Bachelor’s degree from Lanzhou University, where I was advised by [Prof. Shaoduo Gan](https://scholar.google.com/citations?user=Gy9ZnBcAAAAJ&hl=en&oi=sra).
+Hi, my name is Zihao Wang. I am currently an intern at [InfiX-ai](https://huggingface.co/InfiX-ai), where I am advised by [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/). Previously, I worked as a research assistant at Sun Yat-sen University, under the supervision of [Prof. Li Shen](https://sites.google.com/site/mathshenli/home). I obtained my Bachelor’s degree from Lanzhou University. In my senior year, I undertook an external research internship under the guidance of [Prof. Shaoduo Gan](https://scholar.google.com/citations?user=Gy9ZnBcAAAAJ&hl=en&oi=sra).
 
 My research interests lie primarily in **Model Merging** and **Efficient Large Language Models (LLMs)**.
 
@@ -51,7 +51,7 @@ My research interests lie primarily in **Model Merging** and **Efficient Large L
 
 [G-Merging: Merging Models within O(1) Memory Cost via Gossip Approach]()
 
-Zihao Wang, Li Shen, Anke Tang, Xiaojun Chen, Shiwei Liu, Lu Yin, Xiaochun Cao
+**Zihao Wang**, Li Shen, Anke Tang, Xiaojun Chen, Shiwei Liu, Lu Yin, Xiaochun Cao
 </div>
 </div>
 
